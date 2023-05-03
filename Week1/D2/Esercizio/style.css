@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+header img{
+    width: 200px;
+    margin: 1rem 0;
+}
+
+nav{
+    padding: 1rem 0;
+    background-color: bisque;
+}
+
+nav span{
+    color: darkcyan;
+}
+
+nav span span{
+    color: darkcyan;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+main{
+    width: 50%;
+    text-align: left;
+    margin: auto;
+}
+
+main img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+section div{
+    border-left: 1px solid #ffd977;
+    padding-left: 1rem;
+    margin-top: 2rem;
+}
+
+#ingr{
+    margin-top: 2rem;
+    border-top: 1px solid darkcyan;
+    border-bottom: 1px solid darkcyan;
+}
+
+div p{
+    color: #ffd977;
+}
+
+div a{
+    color: darkcyan;
+}
