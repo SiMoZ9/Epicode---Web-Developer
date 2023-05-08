@@ -1,0 +1,7 @@
+#spiegazione p:hover{
+    background-color: yellow!important;
+}
+
+#spiegazione p:first-child{ /*A prescindere dal tipo, si applica sempre al primo figlio*/
+    background-color: red;
+}
